@@ -6,3 +6,5 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 [01_Wallet_Project](https://github.com/Ludwig1996/IFD-SoSe2020/blob/master/Aufgabe_01_IFD_Ludwig_Hölldorfer.pdf)
 
 [02_Prototyping](https://github.com/Ludwig1996/IFD-SoSe2020/blob/master/Aufgabe_02_IFD_Ludwig_Hölldorfer.pdf)
+
+[03_High_Fid_Prototype](https://www.figma.com/file/nG4VUf3EgpG4Hbo141ZeEc/Prototyp_Aufgabe_03?node-id=0%3A1)
