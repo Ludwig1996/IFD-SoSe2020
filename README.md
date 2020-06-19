@@ -12,3 +12,5 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 [04_Grobkonzeptentwurf](https://drive.google.com/file/d/1Y9fZ4ujNLVZz5ybNNcVog9OlOL1kDzjf/view?usp=sharing)
 
 [05_VUI_Sprachassistent](https://Ludwig1996.github.io/IFD-SoSe2020/playground-artyom.html)
+
+[05.1 VUI Screencast](https://youtu.be/wkpSak1oJXc)
