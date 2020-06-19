@@ -10,7 +10,7 @@ window.addEventListener("load", function () {
 
 
     var commandHello = {
-        indexes:["Guten Morgen", "hallo"], // These spoken words will trigger the execution of the command
+        indexes:["Guten Morgen", "hallo", "Hallo"], // These spoken words will trigger the execution of the command
         action:function(){ // Action to be executed when a index match with spoken word
             artyom.say("Willkommen. Ich habe die aktuellen Zahlen für Sie");
            
@@ -21,9 +21,9 @@ window.addEventListener("load", function () {
     artyom.addCommands(commandHello)
 
     var Verschleiß = {
-        indexes:["Kosten bitte vorlesen"], 
+        indexes:["bitte vorlesen"], 
         action:function(){ 
-            artyom.say("Die Kosten lagen bei 1850€");
+            artyom.say("Die aktuellen Kosten lagen bei 1850€ gestern");
            
         }
 
