@@ -14,3 +14,7 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 [05_VUI_Sprachassistent](https://Ludwig1996.github.io/IFD-SoSe2020/playground-artyom.html)
 
 [05.1 VUI Screencast](https://youtu.be/wkpSak1oJXc)
+
+[06_VR-Brille](.....................)
+
+[07_VR-Video Prototyp](https://youtu.be/W4o99eFyUHI)
