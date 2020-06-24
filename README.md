@@ -17,4 +17,4 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 
 [06_VR-Brille](https://docs.google.com/document/d/1gjnJ3YUy7UAjsWi9mlq82mWvEQXjmuXnxoqYBjydVZE/edit?usp=sharing)
 
-[07_VR-Video Prototyp](https://github.com/Ludwig1996/IFD-SoSe2020/blob/master/VR_prototyp.html)
+[07_VR-Video Prototyp](https://Ludwig1996.github.io/IFD-SoSe2020/VR_prototyp.html)
