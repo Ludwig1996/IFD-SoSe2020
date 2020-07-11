@@ -20,3 +20,5 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 [07_VR-Video Prototyp](https://Ludwig1996.github.io/IFD-SoSe2020/VR_prototyp.html)
 
 [08_VR-Video Weiterentwicklung](https://Ludwig1996.github.io/IFD-SoSe2020/Aufgabe_08.html)
+
+[10_Corona_Abstandswarnsystem](https://Ludwig1996.github.io/IFD-SoSe2020/Aufgabe_10.html)
