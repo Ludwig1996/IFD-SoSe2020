@@ -23,3 +23,5 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 
 [10_Corona_Abstandswarnsystem](https://Ludwig1996.github.io/IFD-SoSe2020/Aufgabe_10.html)
 
+[11_Future_Interfaces](https://Ludwig1996.github.io/IFD-SoSe2020/Aufgabe_11.html)
+
