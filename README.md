@@ -25,3 +25,4 @@ repository von Ludwig Hölldorfer im Fach InterfaceDesign im Sommersemester 2020
 
 [11_Future_Interfaces](https://Ludwig1996.github.io/IFD-SoSe2020/Aufgabe_11.html)
 
+[Abschlussaufgabe](https://docs.google.com/document/d/1H57pmQRHDAdlNUtfdQrx0m8AJ-hhMc5erDona3t8JWg/edit?usp=sharing)
